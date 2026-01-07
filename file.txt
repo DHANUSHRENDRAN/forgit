@@ -2,6 +2,3 @@ echo"Vada macha yeppidi irukka"
 echo "Pode dei"
 dwdww
 dwddad
-
-
-this is from git
